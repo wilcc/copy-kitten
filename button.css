@@ -1,0 +1,12 @@
+body #button{color: white;
+font-size: 48px;
+background-color: rgb(52, 133, 193);
+padding: 15px 40px;
+border-bottom: 8px solid rgb(30,82,117);
+border-radius: 16px;
+
+}
+body #button:hover{
+    background-color:rgb(62,162,232);
+    border-bottom: none;
+}
