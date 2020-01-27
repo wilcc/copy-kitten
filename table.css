@@ -1,0 +1,45 @@
+.row{
+    padding: 5px 5px 5px;
+    
+}
+
+.row-1{border-style: solid;
+    border-width: thin;
+border-top: transparent;
+border-color: black;
+padding: 2px;
+
+
+}
+.row-2{
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+    padding: 2px;
+}
+.row-3{
+    border-style: solid;
+    border-bottom: transparent;
+    border-color: black;
+    border-width: thin;
+    padding: 2px;
+}
+#cell-1{
+    border-left-color: transparent;
+}
+#cell-3{
+    border-right-color: transparent;
+}
+#cell-4{
+    border-left-color: transparent;
+}
+
+#cell-6{
+    border-right-color: transparent;
+}
+#cell-7{
+    border-left-color: transparent;
+}
+#cell-9{
+    border-right-color: transparent;
+}
