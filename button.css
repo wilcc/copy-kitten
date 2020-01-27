@@ -5,6 +5,7 @@ padding: 15px 40px;
 border-bottom: 8px solid rgb(30,82,117);
 border-radius: 16px;
 text-transform: uppercase;
+text-decoration: none;
 
 }
 body #button:hover{
